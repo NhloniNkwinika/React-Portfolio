@@ -1,10 +1,10 @@
 import "./FooterStyles.css";
 import React from 'react'
-import { FaLinkedin} from "react-icons/fa";
+import { FaGithub, FaLinkedin} from "react-icons/fa";
 import { FaMailBulk } from "react-icons/fa";
 import { FaPhone } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
-import { FaFacebook } from "react-icons/fa";
+//import { FaGithub } from "react-icons/fa";
 
 
 const Footer = () => {
@@ -28,11 +28,18 @@ const Footer = () => {
            
             <div>
             <h4>About Nhlonipho</h4>
-                <p>bla bla bla lbla fuyhrf fyrfn ufbyubygf feuy fjuf hur fur</p>
+                <p> I specialize in creating visually appealing and user-friendly
+                 web apps using HTML, CSS, JavaScript, and frameworks like React and Angular.
+                </p>
                 <div className="social">
-                     <FaFacebook size={30} style={{color:"#fff", marginRight:"1rem"}} />
-                     <FaTwitter size={30} style={{color:"#fff", marginRight:"1rem"}} />
-                     <FaLinkedin size={30} style={{color:"#fff", marginRight:"1rem"}} />
+                    <a href="https://github.com/NhloniNkwinika"target="_blank" rel="noopener noreferrer">
+                    <FaGithub size={30} style={{color:"#fff", marginRight:"1rem"}} />
+                    </a>
+                    <FaTwitter size={30} style={{color:"#fff", marginRight:"1rem"}} />
+                    <a href="https://www.linkedin.com/in/nhlonipho-nkwinika-a30306257"target="_blank" rel="noopener noreferrer">
+                    <FaLinkedin size={30} style={{color:"#fff", marginRight:"1rem"}} />
+                    </a>
+                    
                 </div>
             </div>
         

@@ -1,7 +1,7 @@
 import "./HeroImgStyles.css";
 import heroImg from "../assets/heroImg.jpg";
 import React from 'react'
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 const HeroImg = () => {
   return (
     <div className="hero">
@@ -10,7 +10,7 @@ const HeroImg = () => {
         </div>
           <div className="content">
               <h1>
-                Full-Stack Developer
+                Front-End Developer
               </h1>
               
           </div>

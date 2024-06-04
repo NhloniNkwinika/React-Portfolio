@@ -15,7 +15,7 @@ const Pricing = () => {
                 <p className="btc"></p>
                 <p>-  -</p>
                 <p>-  -</p>
-                <p>- Responsive Design -</p>
+                <p>-  -</p>
                 <button className="btn">view</button>
             </div>
             <div className="card">
@@ -26,7 +26,7 @@ const Pricing = () => {
                 <p className="btc"></p>
                 <p>-  -</p>
                 <p>-  -</p>
-                <p>- Responsive Design -</p>
+                <p>-  -</p>
                 <button className="btn">view</button>
             </div>
             <div className="card">
@@ -35,9 +35,9 @@ const Pricing = () => {
 
                 </span>
                 <p className="btc"></p>
-                <p>-  -</p>
                 <p>- -</p>
-                <p>- Responsive Design -</p>
+                <p>- -</p>
+                <p>- -</p>
                 <button className="btn">view</button>
             </div>
         </div>

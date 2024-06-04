@@ -8,7 +8,7 @@ const Pricing = () => {
     <div className="pricing">
         <div className="card-container">
             <div className="card">
-                <h3>- Project 1 -</h3>
+                <h3>- ToDo List App-</h3>
                 <span className="bar">
 
                 </span>
@@ -16,7 +16,10 @@ const Pricing = () => {
                 <p>-  -</p>
                 <p>-  -</p>
                 <p>-  -</p>
+                <a href="https://nhloninkwinika.github.io/ToDoListApp/"target="_blank" rel="noopener noreferrer">
                 <button className="btn">view</button>
+                </a>
+                
             </div>
             <div className="card">
                 <h3>- Project 2 -</h3>
@@ -27,7 +30,10 @@ const Pricing = () => {
                 <p>-  -</p>
                 <p>-  -</p>
                 <p>-  -</p>
+               
                 <button className="btn">view</button>
+                
+                
             </div>
             <div className="card">
                 <h3>- project 3 -</h3>

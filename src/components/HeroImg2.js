@@ -22,7 +22,7 @@ const Pricing = () => {
                 
             </div>
             <div className="card">
-                <h3>- Project 2 -</h3>
+                <h3>- Book Store -</h3>
                 <span className="bar">
 
                 </span>
@@ -31,8 +31,9 @@ const Pricing = () => {
                 <p>-  -</p>
                 <p>-  -</p>
                
-                <button className="btn">view</button>
-                
+                <a href="https://nhloninkwinika.github.io/BookStore/"target="_blank" rel="noopener noreferrer">
+                    <button className="btn">view</button>
+                </a>
                 
             </div>
             <div className="card">

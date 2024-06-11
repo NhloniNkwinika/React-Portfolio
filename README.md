@@ -1,3 +1,14 @@
+
+<b>Overview</b> <br>
+This is a personal portfolio website built using React. The portfolio showcases my skills, projects, and provides ways to contact me through social media links, email, and phone number. <br>
+
+<b>Features </b> <br>
+Personal introduction and summary<br>
+Links to social media profiles<br>
+Email and phone number for contact<br>
+Showcase of front-end projects with links and descriptions<br>
+Responsive design for various screen sizes<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

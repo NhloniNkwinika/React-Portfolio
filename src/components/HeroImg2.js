@@ -37,7 +37,7 @@ const Pricing = () => {
                 
             </div>
             <div className="card">
-                <h3>- project 3 -</h3>
+                <h3>- Oziano Trading -</h3>
                 <span className="bar">
 
                 </span>
@@ -45,7 +45,10 @@ const Pricing = () => {
                 <p>- -</p>
                 <p>- -</p>
                 <p>- -</p>
+                <a href="https://nhloninkwinika.github.io/Oziano-Trading-Projects/"target="_blank" rel="noopener noreferrer">
                 <button className="btn">view</button>
+                </a>
+                
             </div>
         </div>
     </div>

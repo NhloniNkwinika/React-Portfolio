@@ -21,8 +21,9 @@ const Pricing = () => {
                 </a>
                 
             </div>
+            
             <div className="card">
-                <h3>- Weather App -</h3>
+                <h3>- Oziano Trading -</h3>
                 <span className="bar">
 
                 </span>
@@ -30,7 +31,7 @@ const Pricing = () => {
                 <p>- -</p>
                 <p>- -</p>
                 <p>- -</p>
-                <a href="https://gleeful-hotteok-9f1de2.netlify.app"target="_blank" rel="noopener noreferrer">
+                <a href="https://nhloninkwinika.github.io/Oziano-Trading-Projects/"target="_blank" rel="noopener noreferrer">
                 <button className="btn">view</button>
                 </a>
                 
@@ -50,20 +51,7 @@ const Pricing = () => {
                 
             </div>
       
-            <div className="card">
-                <h3>- Oziano Trading -</h3>
-                <span className="bar">
-
-                </span>
-                <p className="btc"></p>
-                <p>- -</p>
-                <p>- -</p>
-                <p>- -</p>
-                <a href="https://nhloninkwinika.github.io/Oziano-Trading-Projects/"target="_blank" rel="noopener noreferrer">
-                <button className="btn">view</button>
-                </a>
-                
-            </div>
+            
             <div className="card">
                 <h3>- Book Store -</h3>
                 <span className="bar">
@@ -76,6 +64,20 @@ const Pricing = () => {
                
                 <a href="https://nhloninkwinika.github.io/BookStore/"target="_blank" rel="noopener noreferrer">
                     <button className="btn">view</button>
+                </a>
+                
+            </div>
+            <div className="card">
+                <h3>- Weather App -</h3>
+                <span className="bar">
+
+                </span>
+                <p className="btc"></p>
+                <p>- -</p>
+                <p>- -</p>
+                <p>- -</p>
+                <a href="https://gleeful-hotteok-9f1de2.netlify.app"target="_blank" rel="noopener noreferrer">
+                <button className="btn">view</button>
                 </a>
                 
             </div>

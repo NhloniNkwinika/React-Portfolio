@@ -22,20 +22,34 @@ const Pricing = () => {
                 
             </div>
             <div className="card">
-                <h3>- Book Store -</h3>
+                <h3>- Weather App -</h3>
                 <span className="bar">
 
                 </span>
                 <p className="btc"></p>
-                <p>-  -</p>
-                <p>-  -</p>
-                <p>-  -</p>
-               
-                <a href="https://nhloninkwinika.github.io/BookStore/"target="_blank" rel="noopener noreferrer">
-                    <button className="btn">view</button>
+                <p>- -</p>
+                <p>- -</p>
+                <p>- -</p>
+                <a href="https://gleeful-hotteok-9f1de2.netlify.app"target="_blank" rel="noopener noreferrer">
+                <button className="btn">view</button>
                 </a>
                 
             </div>
+            <div className="card">
+                <h3>- African Food -</h3>
+                <span className="bar">
+
+                </span>
+                <p className="btc"></p>
+                <p>- -</p>
+                <p>- -</p>
+                <p>- -</p>
+                <a href="https://tangerine-elf-667008.netlify.app"target="_blank" rel="noopener noreferrer">
+                <button className="btn">view</button>
+                </a>
+                
+            </div>
+      
             <div className="card">
                 <h3>- Oziano Trading -</h3>
                 <span className="bar">
@@ -50,6 +64,23 @@ const Pricing = () => {
                 </a>
                 
             </div>
+            <div className="card">
+                <h3>- Book Store -</h3>
+                <span className="bar">
+
+                </span>
+                <p className="btc"></p>
+                <p>-  -</p>
+                <p>-  -</p>
+                <p>-  -</p>
+               
+                <a href="https://nhloninkwinika.github.io/BookStore/"target="_blank" rel="noopener noreferrer">
+                    <button className="btn">view</button>
+                </a>
+                
+            </div>
+      
+          
         </div>
     </div>
   )
